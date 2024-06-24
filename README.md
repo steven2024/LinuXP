@@ -42,7 +42,7 @@ This repository is currently a placeholder. Development work has not yet started
 
 ## Credits
 - [xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) by Rory Fewell [(rozniak)](https://github.com/rozniak): Windows XP Total Conversion for XFCE.
-- [WindozeXP 1080p Plymouth theme](https://github.com/Liftu/WindozeXP-1080-Plymouth-theme): Windows XP bootscreen look-alike.
+- [WindozeXP 1080p Plymouth theme](https://github.com/Liftu/WindozeXP-1080-Plymouth-theme) by [Liftu](https://github.com/Liftu): Windows XP bootscreen look-alike.
 
 ## License
 
